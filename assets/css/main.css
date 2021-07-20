@@ -2377,6 +2377,7 @@ button:active,
 
 #main > section.two {
   background-color: #f5fafa;
+  background-image: url("../../images/background2.jpg");
 }
 
 #main > section.three {
